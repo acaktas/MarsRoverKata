@@ -1,0 +1,7 @@
+C:\Playground\Katas\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+C:\Playground\Katas\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+C:\Playground\Katas\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+C:\Playground\Katas\MarsRover\MarsRover\obj\Debug\MarsRover.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+C:\Playground\Katas\MarsRover\MarsRover\obj\Debug\MarsRover.pdb

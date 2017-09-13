@@ -1,0 +1,11 @@
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\MarsRoverTest.dll
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\MarsRoverTest.pdb
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\MarsRover.exe
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\MarsRover.pdb
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\MarsRover.exe.config
+C:\Playground\Katas\MarsRover\MarsRoverTest\obj\Debug\MarsRoverTest.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\MarsRover\MarsRoverTest\obj\Debug\MarsRoverTest.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\MarsRover\MarsRoverTest\obj\Debug\MarsRoverTest.dll
+C:\Playground\Katas\MarsRover\MarsRoverTest\obj\Debug\MarsRoverTest.pdb
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\nunit.framework.dll
+C:\Playground\Katas\MarsRover\MarsRoverTest\bin\Debug\nunit.framework.xml
